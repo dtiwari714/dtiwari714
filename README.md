@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Tiwari</h1>
 <h3 align="center">Web Developer Crafting Digital Experiences</h3>
 
-<img align="right" alt="Coding" width="400px" src="![image](https://github.com/dtiwari714/dtiwari714/assets/77872399/2403bb03-6779-4ba9-87fa-03f827424132)
-"> 
+<img align="right" alt="Coding" width="400px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cg3hkqoukg6obv81q5diic4yxtl3ui8c4xpz10k5&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtiwari714&label=Profile%20views&color=0e75b6&style=flat" alt="dtiwari714" /> </p>
 
