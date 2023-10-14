@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Durgesh Tiwari</h1>
 <h3 align="center">Web Developer Crafting Digital Experiences</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw0CNMMTO5bKc9M54kBECpfB&ust=1697397786506000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjM2dKh9oEDFQAAAAAdAAAAABAp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtiwari714&label=Profile%20views&color=0e75b6&style=flat" alt="dtiwari714" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtiwari714" alt="dtiwari714" /></a> </p>
