@@ -8,9 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtiwari714&label=Profile%20views&color=0e75b6&style=flat" alt="dtiwari714" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtiwari714" alt="dtiwari714" /></a> </p>
+<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtiwari714" alt="dtiwari714" /></a> </p-->
 
-<p align="left"> <a href="https://twitter.com/tiwaridurgesh63" target="blank"><img src="https://img.shields.io/twitter/follow/tiwaridurgesh63?logo=twitter&style=for-the-badge" alt="tiwaridurgesh63" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -21,6 +20,7 @@
 - 💬 Ask me about **MERN,JAVA,SPRING FRAMEWORK,HIBERNATE**
 
 - 📫 How to reach me **dtiwari714@rku.ac.in**
+<p align="left"> <a href="https://twitter.com/tiwaridurgesh63" target="blank"><img src="https://img.shields.io/twitter/follow/tiwaridurgesh63?logo=twitter&style=for-the-badge" alt="tiwaridurgesh63" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
