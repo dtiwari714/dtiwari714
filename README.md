@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cg3hkqoukg6obv81q5diic4yxtl3ui8c4xpz10k5&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img height="150" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 </div>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B;Crafting+digital+dreams+with+code" alt="Typing SVG"></p>
 
