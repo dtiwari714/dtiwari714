@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559"/>
+  <img height="150" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 </div>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B;Crafting+digital+dreams+with+code" alt="Typing SVG"></p>
 
